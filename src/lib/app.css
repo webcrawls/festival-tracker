@@ -9,7 +9,8 @@
 * {
     color: var(--text-color);
     font-family: Arial;
-    font-size: 1rem;
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -29,6 +30,7 @@ main {
     height: 100%;
     background-color: var(--fg-color);
     font-size: 1rem;
+    padding-inline: 1rem;
 }
 
 input[type="text"] {
@@ -45,9 +47,28 @@ hr {
     border: none;
 }
 
-* {
-    margin: 0;
-    padding: 0;
+.option-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.option {
+    display: flex;
+    gap: 0.3rem;
+}
+
+.track-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding-block: 0.5rem;
+}
+
+select {
+    background-color: unset;
+    border: unset;
+    border-bottom: 2px solid black;
 }
 
 table.songs {
@@ -82,4 +103,28 @@ table.songs thead tr th:nth-child(5) {
 /* BPM */
 table.songs thead tr th.instrument {
     width: 5%;
+}
+
+.track header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.track footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.track img {
+    width: 24px;
+    height: 24px;
+}
+
+
+.difficulty-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }

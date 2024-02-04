@@ -4,6 +4,7 @@
     import {onMount} from "svelte";
     import Fuse from 'fuse.js'
     import {bass, bpm, drums, lead, vocals} from "$lib/sorting";
+    import Track from "$lib/track/Track.svelte";
 
     let searches: any[] = []
     let songs: any[] = []
@@ -38,52 +39,34 @@
         <p>Explore, sort, and demo songs from the Fortnite Festival Jam Stage.</p>
     </header>
     <hr/>
-    <input type="text" bind:value={search} placeholder="good 4 u"/>
     <section>
-        <h3>Sort By</h3>
-        <select bind:value={sortingMethod}>
-            <option value={lead}>Lead</option>
-            <option value={drums}>Drums</option>
-            <option value={vocals}>Vocals</option>
-            <option value={bass}>Bass</option>
-        </select>
+        <h1>Tracks</h1>
+        <div class="option-group">
+            <div class="option">
+                <p>sorting by</p>
+                <select bind:value={sortingMethod}>
+                    <option value="{(a, b) => 0}">Duration</option>
+                    <option value={bpm}>BPM</option>
+                    <option value={lead}>Lead</option>
+                    <option value={drums}>Drums</option>
+                    <option value={vocals}>Vocals</option>
+                    <option value={bass}>Bass</option>
+                </select>
+            </div>
+            <input type="text" bind:value={search} placeholder="good 4 u"/>
+        </div>
+        <div class="track-group">
+        {#each searches as song}
+            <Track name="{song.name}"
+                   artist="{song.artist}"
+                   length="{song.length}"
+                   genre="{song?.genre}"
+                   lead="{song?.difficulties?.lead}"
+                   drums="{song?.difficulties?.drums}"
+                   vocals="{song?.difficulties?.vocals}"
+                   bass="{song?.difficulties?.bass}" />
+        {/each}
+        </div>
     </section>
-    <table class="songs">
-        {#if !songs}
-            <h1>Loading songs...</h1>
-        {/if}
-        <thead>
-            <tr>
-                <th scope="col">Name</th>
-                <th scope="col">Artist</th>
-                <th scope="col">Genre</th>
-                <th scope="col">Length</th>
-                <th on:click={() => sortingMethod = bpm} scope="col">BPM</th>
-                <th on:click={() => sortingMethod = lead} scope="col" class="instrument">Lead</th>
-                <th on:click={() => sortingMethod = vocals} scope="col" class="instrument">Vocals</th>
-                <th on:click={() => sortingMethod = drums} scope="col" class="instrument">Drums</th>
-                <th on:click={() => sortingMethod = bass} scope="col" class="instrument">Bass</th>
-            </tr>
-        </thead>
-        <tbody>
-            {#each searches as song}
-                <tr>
-                    <td>{song.name}</td>
-                    <td>{song.artist}</td>
-                    <td>{song.genre}</td>
-                    <td>{song.length}</td>
-                    <td>{song.bpm}</td>
-                    <td>{song?.difficulties?.lead ?? 'N/A'}</td>
-                    <td>{song?.difficulties?.vocals ?? 'N/A'}</td>
-                    <td>{song?.difficulties?.drums ?? 'N/A'}</td>
-                    <td>{song?.difficulties?.bass ?? 'N/A'}</td>
-                </tr>
-            {/each}
-        </tbody>
-    </table>
     <p style="font-style: italic; opacity: 0.7">hey. there may be some inconsistencies or incorrect information here. if you notice something wrong, leave an issue or <a href="https://github.com/webcrawls/festival-tracker">suggest a change on GitHub!</a></p>
 </main>
-
-<style>
-
-</style>
