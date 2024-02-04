@@ -10,6 +10,8 @@
     export let vocals: number = 0
     export let bass: number = 0
 
+    export let image: string = ""
+
 </script>
 
 <article class="track">
@@ -18,19 +20,27 @@
             <h4><span class="song-name">{name}</span> • <span class="artist">{artist}</span></h4>
         </div>
         <div class="difficulty-group">
-            <img src="/guitar.webp"/>
-            <p>{lead}</p>
-            <img src="/bass.webp"/>
-            <p>{bass}</p>
+            <div class="difficulty">
+                <img src="/guitar.webp"/>
+                <p>{lead}</p>
+            </div>
+            <div class="difficulty">
+                <img src="/bass.webp"/>
+                <p>{bass}</p>
+            </div>
         </div>
     </header>
     <footer>
-        <p>{length} - {genre} - {bpm}<small>BPM</small></p>
+        <p style="opacity: 0.7;">{length} - {genre} - {bpm}<small>BPM</small></p>
         <div class="difficulty-group">
-            <img src="/drum.webp"/>
-            <p>{drums}</p>
-            <img src="/microphone.webp"/>
-            <p>{vocals}</p>
+            <div class="difficulty">
+                <img src="/drum.webp"/>
+                <p>{drums}</p>
+            </div>
+            <div class="difficulty">
+                <img src="/microphone.webp"/>
+                <p>{vocals}</p>
+            </div>
         </div>
     </footer>
 </article>

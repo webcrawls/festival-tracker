@@ -65,7 +65,7 @@
                    lead="{song?.difficulties?.lead}"
                    drums="{song?.difficulties?.drums}"
                    vocals="{song?.difficulties?.vocals}"
-                   bass="{song?.difficulties?.bass}" />
+                   bass="{song?.difficulties?.bass}"/>
         {/each}
         </div>
     </section>
