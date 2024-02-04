@@ -116,8 +116,8 @@
       "difficulties": {
         "lead": 4,
         "bass": 7,
-        "vocals": 6,
-        "drums": 7
+        "vocals": 7,
+        "drums": 6
       }
     },
     {
@@ -174,7 +174,7 @@
       "release": "December 9th 2023",
       "image": "https://static.wikia.nocookie.net/fortnite/images/8/80/Take_My_Breath_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209152401",
       "difficulties": {
-        "lead": 6,
+        "lead": 5,
         "bass": 2,
         "vocals": 4,
         "drums": 4
@@ -312,7 +312,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 11th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/2/2c/The_Search_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210192800"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/2/2c/The_Search_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210192800",
+      "difficulties": {
+        "lead": 2,
+        "bass": 2,
+        "drums": 4,
+        "vocals": 6
+      }
     },
     {
       "artist": "DNCE",
@@ -326,7 +332,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 12th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/6/65/Cake_By_The_Ocean_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210192409"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/6/65/Cake_By_The_Ocean_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210192409",
+      "difficulties": {
+        "lead": 4,
+        "bass": 3,
+        "drums": 4,
+        "vocals": 4
+      }
     },
     {
       "artist": "The All-American Rejects",
@@ -340,7 +352,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 12th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/2/27/Dirty_Little_Secret_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210193118"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/2/27/Dirty_Little_Secret_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210193118",
+      "difficulties": {
+        "lead": 3,
+        "bass": 3,
+        "drums": 4,
+        "vocals": 3
+      }
     },
     {
       "artist": "Sub Urban",
@@ -354,7 +372,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 12th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/2/2d/Cradles_%28New%29_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240119011343"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/2/2d/Cradles_%28New%29_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240119011343",
+      "difficulties": {
+        "lead": 2,
+        "bass": 1,
+        "drums": 4,
+        "vocals": 2
+      }
     },
     {
       "artist": "KT Tunstall",
@@ -368,7 +392,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 13th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/8/86/Suddenly_I_See_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210193243"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/8/86/Suddenly_I_See_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210193243",
+      "difficulties": {
+        "lead": 5,
+        "bass": 3,
+        "drums": 4,
+        "vocals": 4
+      }
     },
     {
       "artist": "Greta Van Fleet",
@@ -382,7 +412,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 13th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/7/72/Highway_Tune_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210193442"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/7/72/Highway_Tune_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210193442",
+      "difficulties": {
+        "lead": 6,
+        "bass": 3,
+        "drums": 4,
+        "vocals": 4
+      }
     },
     {
       "artist": "Queens of the Stone Age",
@@ -396,7 +432,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 13th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/9/9c/Go_With_The_Flow_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210193155"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/9/9c/Go_With_The_Flow_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210193155",
+      "difficulties": {
+        "lead": 3,
+        "bass": 3,
+        "drums": 5,
+        "vocals": 3
+      }
     },
     {
       "artist": "Weezer",
@@ -410,7 +452,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 14th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/d/df/Buddy_Holly_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210192206"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/d/df/Buddy_Holly_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210192206",
+      "difficulties": {
+        "lead": 3,
+        "bass": 3,
+        "drums": 4,
+        "vocals": 4
+      }
     },
     {
       "artist": "Machine Gun Kelly",
@@ -484,7 +532,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 15th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/9/9f/The_Hand_That_Feeds_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210192929"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/9/9f/The_Hand_That_Feeds_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210192929",
+      "difficulties": {
+        "lead": 4,
+        "bass": 3,
+        "drums": 4,
+        "vocals": 3
+      }
     },
     {
       "artist": "The Cranberries",
@@ -518,7 +572,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 21st 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/c/c6/Evolve_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210000257"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/c/c6/Evolve_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210000257",
+      "difficulties": {
+        "lead": 2,
+        "bass": 1,
+        "drums": 4,
+        "vocals": 5
+      }
     },
     {
       "artist": "U2",
@@ -532,7 +592,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 21st 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/2/28/Beautiful_Day_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231219171123"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/2/28/Beautiful_Day_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231219171123",
+      "difficulties": {
+        "lead": 4,
+        "bass": 3,
+        "drums": 3,
+        "vocals": 3
+      }
     },
     {
       "artist": "Pat Benatar",
@@ -546,7 +612,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "December 21st 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/b/b7/Heartbreaker_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231219171235"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/b/b7/Heartbreaker_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231219171235",
+      "difficulties": {
+        "lead": 5,
+        "bass": 2,
+        "drums": 5,
+        "vocals": 4
+      }
     },
     {
       "artist": "The Weeknd",
@@ -560,7 +632,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "January 11th 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/9/92/Beauty_Behind_The_Madness_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209152253"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/9/92/Beauty_Behind_The_Madness_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209152253",
+      "difficulties": {
+        "lead": 1,
+        "bass": 4,
+        "drums": 1,
+        "vocals": 4
+      }
     },
     {
       "artist": "Shawn Mendes",
@@ -574,7 +652,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "January 11th 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/c/c0/Stitches_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240111040809"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/c/c0/Stitches_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240111040809",
+      "difficulties": {
+        "lead": 4,
+        "bass": 2,
+        "drums": 2,
+        "vocals": 4
+      }
     },
     {
       "artist": "Bastille",
@@ -588,7 +672,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "January 19th 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/f/f4/Pompeii_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240116224327"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/f/f4/Pompeii_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240116224327",
+      "difficulties": {
+        "lead": 3,
+        "bass": 3,
+        "drums": 5,
+        "vocals": 5
+      }
     },
     {
       "artist": "Glass Animals",
@@ -602,7 +692,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "January 19th 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/6/6a/Heat_Waves_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240116224338"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/6/6a/Heat_Waves_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240116224338",
+      "difficulties": {
+        "lead": 5,
+        "bass": 1,
+        "drums": 4,
+        "vocals": 4
+      }
     },
     {
       "artist": "Nine Inch Nails",
@@ -616,7 +712,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks\n900 V-Bucks (Less Than)",
       "release": "January 26th 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/3/3f/The_Downward_Spiral_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240124214114"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/3/3f/The_Downward_Spiral_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240124214114",
+      "difficulties": {
+        "lead": 5,
+        "bass": 5,
+        "drums": 7,
+        "vocals": 3
+      }
     },
     {
       "artist": "Nine Inch Nails",
@@ -630,7 +732,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks\n900 V-Bucks (Less Than)",
       "release": "January 26th 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/2/26/Add_Violence_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240124214131"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/2/26/Add_Violence_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240124214131",
+      "difficulties": {
+        "lead": 5,
+        "bass": 3,
+        "drums": 5,
+        "vocals": 2
+      }
     },
     {
       "artist": "Olivia Rodrigo",
@@ -664,7 +772,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks\n900 V-Bucks (get him back!)",
       "release": "January 26th 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/e/eb/Vampire_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210000450"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/e/eb/Vampire_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231210000450",
+      "difficulties": {
+        "lead": 4,
+        "bass": 2,
+        "drums": 4,
+        "vocals": 5
+      }
     },
     {
       "artist": "U2",
@@ -678,7 +792,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks\n900 V-Bucks (I Still Haven't Found What I'm Looking For)",
       "release": "January 26th 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/f/f1/The_Joshua_Tree_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240124214154"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/f/f1/The_Joshua_Tree_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240124214154",
+      "difficulties": {
+        "lead": 3,
+        "bass": 2,
+        "drums": 4,
+        "vocals": 3
+      }
     },
     {
       "artist": "U2",
@@ -692,7 +812,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks\n900 V-Bucks (I Still Haven't Found What I'm Looking For)",
       "release": "January 26th 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/f/f1/The_Joshua_Tree_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240124214154"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/f/f1/The_Joshua_Tree_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240124214154",
+      "difficulties": {
+        "lead": 4,
+        "bass": 1,
+        "drums": 6,
+        "vocals": 2
+      }
     },
     {
       "artist": "Green Day",
@@ -706,7 +832,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks\n1,300 V-Bucks (Basket Case)",
       "release": "February 2nd 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/9/96/Dookie_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240130155950"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/9/96/Dookie_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240130155950",
+      "difficulties": {
+        "lead": 5,
+        "bass": 5,
+        "drums": 6,
+        "vocals": 3
+      }
     },
     {
       "artist": "Green Day",
@@ -720,7 +852,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks\n1,300 V-Bucks (Basket Case)",
       "release": "February 2nd 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/9/96/Dookie_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240130155950"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/9/96/Dookie_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240130155950",
+      "difficulties": {
+        "lead": 6,
+        "bass": 6,
+        "drums": 10,
+        "vocals": 3
+      }
     },
     {
       "artist": "Green Day",
@@ -734,7 +872,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks\n1,300 V-Bucks (Basket Case)",
       "release": "February 2nd 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/9/96/Dookie_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240130155950"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/9/96/Dookie_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240130155950",
+      "difficulties": {
+        "lead": 3,
+        "bass": 5,
+        "drums": 4,
+        "vocals": 3
+      }
     },
     {
       "artist": "Doja Cat",
@@ -748,7 +892,13 @@
       "unlocked": "Item Shop",
       "cost": "500 V-Bucks",
       "release": "February 2nd 2024",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/f/f6/Say_So_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240130155201"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/f/f6/Say_So_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20240130155201",
+      "difficulties": {
+        "lead": 3,
+        "bass": 3,
+        "drums": 2,
+        "vocals": 5
+      }
     },
     {
       "artist": "Epic Games",
@@ -762,7 +912,13 @@
       "unlocked": "N/A",
       "cost": "Free",
       "release": "December 9th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/9/97/OG_%28Future_Remix%29_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209160713"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/9/97/OG_%28Future_Remix%29_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209160713",
+      "difficulties": {
+        "lead": 5,
+        "bass": 4,
+        "drums": 5,
+        "vocals": 4
+      }
     },
     {
       "artist": "Epic Games",
@@ -776,7 +932,13 @@
       "unlocked": "N/A",
       "cost": "Free",
       "release": "December 9th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/1/1a/Show_Them_Who_We_Are_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209160716"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/1/1a/Show_Them_Who_We_Are_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209160716",
+      "difficulties": {
+        "lead": 1,
+        "bass": 3,
+        "drums": 5,
+        "vocals": 5
+      }
     },
     {
       "artist": "Epic Games",
@@ -790,7 +952,13 @@
       "unlocked": "",
       "cost": "Free",
       "release": "December 9th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/4/4b/Butter_Barn_Hoedown_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209155625"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/4/4b/Butter_Barn_Hoedown_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209155625",
+      "difficulties": {
+        "lead": 5,
+        "bass": 2,
+        "drums": 3,
+        "vocals": 5
+      }
     },
     {
       "artist": "Epic Games",
@@ -804,7 +972,13 @@
       "unlocked": "",
       "cost": "Free",
       "release": "December 9th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/a/a5/Take_Me_Higher_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209155644"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/a/a5/Take_Me_Higher_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209155644",
+      "difficulties": {
+        "lead": 4,
+        "bass": 2,
+        "drums": 5,
+        "vocals": 4
+      }
     },
     {
       "artist": "Epic Games",
@@ -818,7 +992,13 @@
       "unlocked": "",
       "cost": "Free",
       "release": "December 9th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/2/20/Switch_Up_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209155654"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/2/20/Switch_Up_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209155654",
+      "difficulties": {
+        "lead": 4,
+        "bass": 2,
+        "drums": 3,
+        "vocals": 3
+      }
     },
     {
       "artist": "Epic Games",
@@ -832,7 +1012,13 @@
       "unlocked": "",
       "cost": "Free",
       "release": "December 9th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/1/11/Run_It_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209155732"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/1/11/Run_It_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209155732",
+      "difficulties": {
+        "lead": 1,
+        "bass": 2,
+        "drums": 3,
+        "vocals": 4
+      }
     },
     {
       "artist": "Epic Games",
@@ -846,7 +1032,13 @@
       "unlocked": "",
       "cost": "Free",
       "release": "December 9th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/1/14/Brace_for_Chaos_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209155742"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/1/14/Brace_for_Chaos_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231209155742",
+      "difficulties": {
+        "lead": 4,
+        "bass": 3,
+        "drums": 5,
+        "vocals": 5
+      }
     },
     {
       "artist": "Fall Out Boy",
@@ -860,7 +1052,13 @@
       "unlocked": "",
       "cost": "1.800 V-Bucks\n( Festival PassS1)",
       "release": "December 9th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/7/70/My_Songs_Know_What_You_Did_In_The_Dark_%28Light_Em_Up%29_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231206211536"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/7/70/My_Songs_Know_What_You_Did_In_The_Dark_%28Light_Em_Up%29_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231206211536",
+      "difficulties": {
+        "lead": 3,
+        "bass": 3,
+        "drums": 4,
+        "vocals": 4
+      }
     },
     {
       "artist": "PSY",
@@ -874,7 +1072,13 @@
       "unlocked": "",
       "cost": "1.800 V-Bucks\n( Festival PassS1)",
       "release": "December 9th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/4/4c/Gangnam_Style_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231206205240"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/4/4c/Gangnam_Style_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231206205240",
+      "difficulties": {
+        "lead": 4,
+        "bass": 4,
+        "drums": 5,
+        "vocals": 4
+      }
     },
     {
       "artist": "Bell Biv DeVoe",
@@ -888,7 +1092,13 @@
       "unlocked": "",
       "cost": "1.800 V-Bucks\n( Festival PassS1)",
       "release": "December 9th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/7/74/Poison_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231206211555"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/7/74/Poison_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231206211555",
+      "difficulties": {
+        "lead": 1,
+        "bass": 3,
+        "drums": 4,
+        "vocals": 5
+      }
     },
     {
       "artist": "The Weeknd",
@@ -902,7 +1112,13 @@
       "unlocked": "",
       "cost": "1,800 V-Bucks\n( Festival PassS1)",
       "release": "December 9th 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/5/54/Blinding_Lights_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231206211624"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/5/54/Blinding_Lights_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231206211624",
+      "difficulties": {
+        "lead": 3,
+        "bass": 2,
+        "drums": 3,
+        "vocals": 3
+      }
     },
     {
       "artist": "Epic Games",
@@ -916,7 +1132,13 @@
       "unlocked": "Winterfest 2023 Presents",
       "cost": "Free",
       "release": "December 22nd 2023",
-      "image": "https://static.wikia.nocookie.net/fortnite/images/1/19/Winterfest_Wish_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231219171157"
+      "image": "https://static.wikia.nocookie.net/fortnite/images/1/19/Winterfest_Wish_-_Jam_Track_-_Fortnite_Festival.png/revision/latest/scale-to-width-down/350?cb=20231219171157",
+      "difficulties": {
+        "lead": 3,
+        "bass": 3,
+        "drums": 5,
+        "vocals": 4
+      }
     }
   ]
 }
