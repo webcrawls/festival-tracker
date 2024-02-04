@@ -1,5 +1,17 @@
+:root {
+    /*--bg-color: #201f26;*/
+    /*--fg-color: #545769;*/
+    /*--tr-even: #1d1c2a;*/
+    /*--tr-odd: #0e0e11;*/
+    /*--text-color: rgba(211, 194, 160, 0.97);*/
+}
+
+* {
+    color: var(--text-color);
+}
+
 body {
-    background-color: #2d2d2d;
+    background-color: var(--bg-color);
     display: flex;
     justify-content: center;
     min-height: 100vh;
@@ -13,8 +25,12 @@ main {
     width: 100%;
     min-height: 100vh;
     height: 100%;
-    background-color: #777777;
+    background-color: var(--fg-color);
     font-size: 1rem;
+}
+
+input[type="text"] {
+    height: 1.5rem;
 }
 
 header {
@@ -38,22 +54,30 @@ table.songs {
     border-spacing: 0;
 }
 
+table.songs tbody tr {
+}
+
 /* lighter even rows */
 table.songs tbody tr:nth-child(even) {
-    background-color: #dcdcdc;
+    background-color: var(--tr-even);
 }
 
 /* darker odd rows */
 table.songs tbody tr:nth-child(odd) {
-    background-color: #b6b6b6;
+    background-color: var(--tr-odd);
 }
 
 /* Length */
 table.songs thead tr th:nth-child(4) {
-    width: 10%;
+    width: 7%;
 }
 
 /* BPM */
 table.songs thead tr th:nth-child(5) {
-    width: 10%;
+    width: 6%;
+}
+
+/* BPM */
+table.songs thead tr th.instrument {
+    width: 5%;
 }
