@@ -3,6 +3,7 @@
     export let artist: string = "Unknown Artist"
     export let length: string = "0:00"
     export let genre: string = "N/A"
+    export let bpm: string = ""
 
     export let lead: number = 0
     export let drums: number = 0
@@ -24,7 +25,7 @@
         </div>
     </header>
     <footer>
-        <p>{length} - {genre}</p>
+        <p>{length} - {genre} - {bpm}<small>BPM</small></p>
         <div class="difficulty-group">
             <img src="/drum.webp"/>
             <p>{drums}</p>

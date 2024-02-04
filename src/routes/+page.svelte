@@ -61,6 +61,7 @@
                    artist="{song.artist}"
                    length="{song.length}"
                    genre="{song?.genre}"
+                   bpm="{song?.bpm}"
                    lead="{song?.difficulties?.lead}"
                    drums="{song?.difficulties?.drums}"
                    vocals="{song?.difficulties?.vocals}"

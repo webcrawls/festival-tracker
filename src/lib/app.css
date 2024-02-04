@@ -24,7 +24,7 @@ body {
 main {
     display: flex;
     flex-direction: column;
-    max-width: 120ch;
+    max-width: 60ch;
     width: 100%;
     min-height: 100vh;
     height: 100%;

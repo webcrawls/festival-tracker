@@ -23,3 +23,10 @@ to learn and improve on my knowledge of some technologies for myself.
 
 - Cleaner styling
 - Explore grabbing song data from Fortnite APIs directly
+- Add 'play song on <spotify/apple/ytm>' buttons
+
+## Caveats
+
+* Not all tracks have genres yet.
+* Sorting by length hasn't been added.
+* Song names are in full-caps, I don't have a decent fix aside from manually editing each. Some day!
