@@ -1,7 +1,7 @@
 # Festival Tracker
 
-**Festival Tracker** is a data visualization tool created to explore the Fortnite Festival track list. One can explore
-the available tracks, and sort by various categories.
+**Festival Tracker** is a data visualization tool created to explore the Fortnite Festival track list. It provides a
+sortable list of all tracks in the game.
 
 Built with svelte and fuse.js.
 
@@ -17,7 +17,7 @@ to learn and improve on my knowledge of some technologies for myself.
 
 - Svelte for the front-end
 - fuse.js for fussy searching
-- Selenium for webscraping fortnite.fandom.com.
+- Selenium for scraping fortnite.fandom.com.
 
 ## TODO
 
