@@ -9,9 +9,18 @@
     export let drums: number = 0
     export let vocals: number = 0
     export let bass: number = 0
-
     export let image: string = ""
 
+    const difficultyClasses = [
+        "",
+        "difficulty-1",
+        "difficulty-2",
+        "difficulty-3",
+        "difficulty-4",
+        "difficulty-5",
+        "difficulty-6",
+        "difficulty-7"
+    ]
 </script>
 
 <article class="track">
@@ -22,11 +31,11 @@
         <div class="difficulty-group">
             <div class="difficulty">
                 <img src="/guitar.webp"/>
-                <p>{lead}</p>
+                <p class="{difficultyClasses[lead]}">{lead}</p>
             </div>
             <div class="difficulty">
                 <img src="/bass.webp"/>
-                <p>{bass}</p>
+                <p class="{difficultyClasses[bass]}">{bass}</p>
             </div>
         </div>
     </header>
@@ -35,11 +44,11 @@
         <div class="difficulty-group">
             <div class="difficulty">
                 <img src="/drum.webp"/>
-                <p>{drums}</p>
+                <p class="{difficultyClasses[drums]}">{drums}</p>
             </div>
             <div class="difficulty">
                 <img src="/microphone.webp"/>
-                <p>{vocals}</p>
+                <p class="{difficultyClasses[vocals]}">{vocals}</p>
             </div>
         </div>
     </footer>
@@ -54,5 +63,9 @@
 
     header {
         margin: 0;
+    }
+
+    .difficulty-1 {
+
     }
 </style>

@@ -10,10 +10,16 @@
     let songs: any[] = []
     let fuse: Fuse<string> = null
     let search: string = ""
+    let showOnlyHard: boolean = false
     let sortingMethod: (a, b) => number = (a, b) => 0
 
     $: searches = search === "" ? songs : fuse?.search(search).map(item => item.item)
-    $: searches = searches.sort(sortingMethod)
+    $: searches = searches.sort(sortingMethod).filter(a =>  showOnlyHard ? isHard(a) : true)
+
+    const isHard = (a) => a.difficulties.lead == 7 ||
+            a.difficulties.bass == 7 ||
+            a.difficulties.vocals == 7 ||
+            a.difficulties.drums == 7
 
     onMount(async () => {
         const res = await fetch("/songs.json")
@@ -54,6 +60,10 @@
                 </select>
             </div>
             <input type="text" bind:value={search} placeholder="good 4 u"/>
+        </div>
+        <div class="option-group">
+            <p>Show only <span class="difficulty-7">Hard</span> tracks</p>
+            <input type="checkbox" bind:value={showOnlyHard}>
         </div>
         <div class="track-group">
         {#each searches as song}

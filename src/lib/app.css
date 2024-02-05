@@ -57,6 +57,7 @@ hr {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
+    padding-block: 0.25rem;
 }
 
 .option {
@@ -145,4 +146,33 @@ table.songs thead tr th.instrument {
     align-items: center;
     gap: 0.25rem;
     display: flex;
+}
+
+.difficulty-1 {
+    color: #91f291;
+    font-weight: bold;
+}
+.difficulty-2 {
+    color: #d5f291;
+    font-weight: bold;
+}
+.difficulty-3 {
+    color: #f2ed91;
+    font-weight: bold;
+}
+.difficulty-4 {
+    color: #f2c691;
+    font-weight: bold;
+}
+.difficulty-5 {
+    color: #f2b991;
+    font-weight: bold;
+}
+.difficulty-6 {
+    color: #f2a491;
+    font-weight: bold;
+}
+.difficulty-7 {
+    color: #f29191;
+    font-weight: bold;
 }
